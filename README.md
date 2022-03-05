@@ -2,6 +2,7 @@
 You can get auto-generated maze. (written by Java)  
   
 If this Readme has some grammertical mistake, sorry. I'm still learning English.  
+Also, the code still have Japanese javadoc comment. I will change it someday :)  
   
 I am reffering to this web-site : Algoful https://algoful.com/Archive/Algorithm/MazeExtend  
 This github's program is written in Java based on the site's program(written in C#), but the algorithm and code's structure is not exactly the same.  
